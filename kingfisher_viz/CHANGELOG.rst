@@ -2,4 +2,6 @@
 Changelog for package kingfisher_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+0.0.1 (2013-10-15)
+------------------
+* Initial release
