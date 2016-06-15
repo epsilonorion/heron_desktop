@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(kingfisher_viz)
+project(heron_viz)
 
 find_package(catkin REQUIRED COMPONENTS roslaunch)
 
