@@ -1,7 +1,9 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package heron_viz
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.1 (2013-10-15)
-------------------
-* Initial release
+Forthcoming
+-----------
+* Updated to include config and other changes in heron_description.
+* Heron rename.
+* Contributors: Tony Baltovski
