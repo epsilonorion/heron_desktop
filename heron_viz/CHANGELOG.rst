@@ -2,8 +2,8 @@
 Changelog for package heron_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2019-01-31)
+------------------
 * Merge pull request `#1 <https://github.com/heron/heron_desktop/issues/1>`_ from ssubramaniam-cpr/kinetic-devel
   Changed interactive marker topic update
 * Changed interative marker topic update
